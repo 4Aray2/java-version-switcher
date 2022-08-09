@@ -1,2 +1,2 @@
 # java-version-switcher
-скрипты которые упрощают жизнь java разработчика
+Scripts that simplify the life of a java developer. Switching between java versions using one command
